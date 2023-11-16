@@ -1,5 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=✨%20Welcome%20to%20Sarah's%20DEV%20World%20✨&fontSize=30&animation=fadeIn&fontAlignY=36&fontColor=fff)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFACAB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+    <a href="https://open.kakao.com/o/sGFzzbsf">
+        <img src="https://img.shields.io/badge/
+        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    </a>
+    <a href="https://www.instagram.com/kwonbi_">
+        <img src="https://img.shields.io/badge/
+        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+
+
 ### 안녕하세요 ! 
 
 배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
@@ -19,10 +38,16 @@ Not only that, I like to be challenged, so I'm trying various fields with an ope
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFACAB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -43,14 +68,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-    </div>
+ 
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
