@@ -55,11 +55,13 @@ I like to documenting things that I realized or learned, so I update my blog at 
     </div>
    </br>
     <!-- Database -->
+   </br>
     <p><strong>Database</strong></p>
     <div>
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
+   - - - - 
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
@@ -68,7 +70,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Others -->
-    <p><strong>Others</strong></p>
+    <p><strong>Tools</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
