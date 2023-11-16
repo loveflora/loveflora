@@ -68,9 +68,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
      </br>
     <p><strong>Tools</strong></p>
@@ -84,18 +82,3 @@ I like to documenting things that I realized or learned, so I update my blog at 
 
 
 ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)
-
-<!--
-**loveflora/loveflora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
