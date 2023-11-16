@@ -11,13 +11,11 @@
 </a>
 
 <a href="https://polydactyl-cello-2db.notion.site/Kim-Sehwa-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
-        <img src="https://img.shields.io/badge/
-        Notion-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
-    </a>
-    <a href="https://www.instagram.com/kwonbi_">
-        <img src="https://img.shields.io/badge/
-        Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
+</a>
+   
+<img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Instagram&logoColor=white"> 
+love7620640@naver.com
 
 
 ### 안녕하세요 ! 
