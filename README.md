@@ -17,8 +17,9 @@
 </a>
 
 </br>
+</br>
 
-## About me 
+## 🙋🏻‍♀️ About me 
 ### 안녕하세요 ! 
 
 배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
@@ -38,7 +39,9 @@ Not only that, I like to be challenged, so I'm trying various fields with an ope
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol)
 
-   </br>
+</br>
+</br>
+
 ## 🔨 Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Frontend -->
