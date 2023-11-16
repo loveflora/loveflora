@@ -38,7 +38,8 @@ including IT(Front-End, Back-End), medicine 🧠, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
-Thanks for your visiting, contact me anytime, if you want to know more about me !
+Thanks for your visiting. </br>
+Contact me anytime, if you want to know more about me !
 
 </br>
 </br>
