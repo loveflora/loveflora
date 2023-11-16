@@ -13,15 +13,11 @@ IT(Front-End, Back-End), 의학 등 열린 마음을 가지고 다양한 분야�
 
 Hi, Everyone.
 Welcome to my GitHub ! This is Sehwa Kim 👋🏻
-
 I want to be a front-end developer with a background as a nurse.
-
 I enjoy learning, helping each other, and growing steadily.
-
 Not only that, I like to be challenged, so I'm trying various fields with an open mind, including IT (Front-End, Back-End) and medicine 🧠 
-
 I love documentation, so I'm blogging at least once a week ✍🏻
-(I gonna do this until I beacome a grandma lol)
+(FYI, I gonna do this until I become a grandma lol)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFACAB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
