@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFACAB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📞 Contact 
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content:center;">
 <a href="https://oooooooooooo.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
