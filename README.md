@@ -30,13 +30,15 @@ IT(Front-End, Back-End), 의학, 영어, 비즈니스 등 열린 마음을 가�
 문서화를 좋아하여, 1주에 최소 1개 블로깅을 하고 있습니다 ✍🏻
 
 Hi, everyone. Welcome to my GitHub channel ! </br>
-Thank you for visiting. This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
+This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
 I want to be a Front-End Developer with a background as a nurse. </br>
 I enjoy learning, helping each other, and growing steadily. </br>
 Not only that, I like to try new things, so I'm exploring various fields with an open mind, </br> 
 including IT(Front-End, Back-End), medicine 🧠, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
-(FYI, I'm gonna do this until I become a grandma lol)
+(FYI, I'm gonna do this until I become a grandma lol) </br>
+</br>
+Thanks for your visiting, contact me anytime, if you want to know more about me !
 
 </br>
 </br>
