@@ -36,7 +36,7 @@ Not only that, I like to be challenged, so I'm trying various fields with an ope
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol)
 
-## 🔨 Once I've used 🔨
+## 🔨 Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Frontend -->
     <p><strong>Frontend</strong></p>
@@ -47,6 +47,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"> 
     </div>
 </br>
     <!-- Backend -->
