@@ -96,8 +96,8 @@ I like to documenting things that I realized or learned, so I update my blog at 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=loveflora)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![loveflora's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loveflora&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/loveflora)
 
-![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)
+![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)[![loveflora's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loveflora&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/loveflora)
+
 
 </div>
