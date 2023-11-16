@@ -6,7 +6,6 @@
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
 
-
 💌 Email : love7620640@naver.com
 
 <a href="https://oooooooooooo.tistory.com/">
@@ -36,6 +35,7 @@ Not only that, I like to be challenged, so I'm trying various fields with an ope
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol)
 
+
 ## 🔨 Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Frontend -->
@@ -51,7 +51,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> 
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> 
     </div>
-</br>
+   </br>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
@@ -65,6 +65,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </div>
+   </br>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
@@ -76,9 +77,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
-</div><br>
 </div>
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
 
 
 ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)
