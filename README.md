@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
 </a>
 
+</br>
+
 ### 안녕하세요 ! 
 
 배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
@@ -79,8 +81,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
 </div>
 
-
-   </br>
-      </br>
+</br>
+</br>
 
 ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)
