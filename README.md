@@ -10,14 +10,14 @@
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
-<!--     <a href="https://open.kakao.com/o/sGFzzbsf">
+<a href="https://polydactyl-cello-2db.notion.site/Kim-Sehwa-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
         <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+        Notion-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
     </a>
     <a href="https://www.instagram.com/kwonbi_">
         <img src="https://img.shields.io/badge/
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a> -->
+    </a>
 
 
 ### 안녕하세요 ! 
