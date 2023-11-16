@@ -41,7 +41,8 @@ I like to documenting things that I realized or learned, so I update my blog at 
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
 Thanks for your visiting. </br>
-Contact me anytime, if you want to know more about me !
+Hope you have a wonderful day.
+Also if you want to know more about me, contact me anytime !
 
 </br>
 </br>
