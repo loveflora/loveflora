@@ -15,8 +15,7 @@
 </a>
 
 </br>
-<img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Email&logoColor=white"> 
-love7620640@naver.com
+💌 Email : love7620640@naver.com
 
 
 ### 안녕하세요 ! 
