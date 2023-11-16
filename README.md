@@ -31,7 +31,7 @@ IT(Front-End, Back-End), 의학, 영어, 비즈니스 등 열린 마음을 가�
 
 </br>
 
-## Hi, everyone. Welcome to my GitHub channel ! </br>
+### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
 I want to be a Front-End Developer with a background as a nurse. </br>
 I enjoy learning, helping each other, and growing steadily. </br>
