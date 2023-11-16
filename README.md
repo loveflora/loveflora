@@ -5,9 +5,6 @@
 
 ## 📞 Contact 
 <div style="display:flex; flex-direction:row;">
-
-💌 Email : love7620640@naver.com
-
 <a href="https://oooooooooooo.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
