@@ -12,7 +12,7 @@ IT(Front-End, Back-End), 의학 등 열린 마음을 가지고 다양한 분야�
 문서화를 좋아하여, 1주에 최소 1개 블로깅을 하고 있습니다 ✍🏻
 
 Hi, Everyone.
-Welcome to my GitHub ! This is Sehwa Kim 👋🏻
+Welcome to my GitHub ! This is Sehwa Kim 👋🏻 </br>
 I want to be a front-end developer with a background as a nurse.
 I enjoy learning, helping each other, and growing steadily.
 Not only that, I like to be challenged, so I'm trying various fields with an open mind, including IT (Front-End, Back-End) and medicine 🧠 
