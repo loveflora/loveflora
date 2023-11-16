@@ -13,8 +13,9 @@
 <a href="https://polydactyl-cello-2db.notion.site/Kim-Sehwa-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
 </a>
-   
-<img src="https://img.shields.io/badge/Email-005FF9style=for-the-badge&logo=Email&logoColor=white"> 
+
+</br>
+<img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=Email&logoColor=white"> 
 love7620640@naver.com
 
 
