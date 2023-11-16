@@ -15,7 +15,8 @@ Hi, Everyone. Welcome to my GitHub ! </br>
 I'm so glad to meet you. This is Sehwa Kim 👋🏻 (You can also call me 'Sarah'.)</br>
 I want to be a Front-End Developer with a background as a nurse. </br>
 I enjoy learning, helping each other, and growing steadily. </br>
-Not only that, I like to be challenged, so I'm trying various fields with an open mind, including IT(Front-End, Back-End), medicine 🧠, English and Business. </br>
+Not only that, I like to be challenged, so I'm trying various fields with an open mind, </br>
+including IT(Front-End, Back-End), medicine 🧠, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻
 (FYI, I'm gonna do this until I become a grandma lol)
 
