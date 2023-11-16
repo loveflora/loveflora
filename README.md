@@ -35,7 +35,7 @@ Not only that, I like to be challenged, so I'm trying various fields with an ope
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol)
 
-
+   </br>
 ## 🔨 Stacks
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <!-- Frontend -->
@@ -79,5 +79,8 @@ I like to documenting things that I realized or learned, so I update my blog at 
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
 </div>
 
+
+   </br>
+      </br>
 
 ![Sehwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=loveflora&show_icons=true&theme=radical)
