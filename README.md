@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20Sarah's%20DEV%20World%20👩🏻‍💻&fontSize=30&animation=fadeIn&fontAlignY=36&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=✨%20Welcome%20to%20Sarah's%20DEV%20World%20✨&fontSize=30&animation=fadeIn&fontAlignY=36&fontColor=fff)
 
 ### Hi there 👋
 
