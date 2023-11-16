@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=세화의%20GitHub&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=세화의%20개발세상&fontSize=40)
 
 ### Hi there 👋
 
