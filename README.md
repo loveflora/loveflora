@@ -43,7 +43,7 @@ I like to documenting things that I realized or learned, so I update my blog at 
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
 Thanks for your visiting. </br>
-Hope you have a wonderful day 🩷  </br>
+Hope you have a wonderful day :)  </br>
 Also if you want to know more about me, contact me anytime !
 
 </br>
