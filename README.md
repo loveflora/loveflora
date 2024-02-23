@@ -28,21 +28,21 @@
 
 배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
 
-간호사 출신 Front-End 개발자 지망생
+간호사 출신 Front-End 개발자
 김세화입니다 👋🏻
 
-IT(Front-End, Back-End), 의학, 영어, 비즈니스 등 열린 마음을 가지고 다양한 분야에 도전하는 것을 즐깁니다 🏃🏻‍♂️
+IT(Front-End, Back-End), 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 분야에 도전하는 것을 즐깁니다 🏃🏻‍♂️
 
-문서화를 좋아하여, 1주에 최소 1개 블로깅을 하고 있습니다 ✍🏻
+문서화를 좋아하여, 1주에 최소 1개 기술 및 일상 블로깅을 하고 있습니다 ✍🏻
 
 </br>
 
 ### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
-I want to be a Front-End Developer with a background as a nurse. </br>
+I'm a Front-End Developer with a background as a nurse. </br>
 I enjoy learning, helping each other, and growing steadily. </br>
 Not only that, I like to try new things. So I'm exploring various fields with an open mind, </br> 
-including IT(Front-End, Back-End), medicine 🧠, English and Business. </br>
+including IT(Front-End, Back-End), Health care, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a week ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
