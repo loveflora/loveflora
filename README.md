@@ -103,7 +103,8 @@ Also if you want to know more about me, contact me anytime !
 </div>
 
 </br>
-
+</br>
+</br>
 
 ## 🏢 Careers
 [2024.03 ~ ing] Freshour | Frontend Developer
@@ -111,7 +112,7 @@ Also if you want to know more about me, contact me anytime !
 
 </br>
 </br>
-
+</br>
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=loveflora)](https://github.com/ryo-ma/github-profile-trophy)
 
