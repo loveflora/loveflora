@@ -45,7 +45,7 @@ This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
 I'm a Front-End Developer with a background as a nurse. </br>
 I enjoy learning about new technologies, helping people, and growing steadily. </br>
 Not only that, I like to try new things. So I'm exploring various fields with an open mind, </br> 
-including IT(Front-End, Back-End), Health care, English and Business. </br>
+including IT, Health care, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a month ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
