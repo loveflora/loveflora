@@ -49,7 +49,9 @@ including IT(Front-End, Back-End), Health care, English and Business. </br>
 I like to documenting things that I realized or learned, so I update my blog at least once a month ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
-There’s a real person behind this profile, too! In my free time you might find me: hiking, traveling, weight training at the gym, listening to podcasts, posting a blog, meeting with a study group, reading books, watching movies or playing escape rooms!
+There’s a real person behind this profile, too! In my free time you might find me: hiking, traveling, 
+</br> weight training at the gym, listening to podcasts, posting a blog, meeting with a study group, reading books, watching movies or playing escape rooms!
+</br>
 </br>
 Thanks for your visiting. </br>
 Hope you have a wonderful day :)  </br>
