@@ -27,18 +27,7 @@
 </br>
 </br>
 
-## 🙋🏻‍♀️ Introduction
-### 안녕하세요 ! 
 
-배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
-
-Frontend 개발자 김세화입니다 👋🏻
-
-IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 분야에 도전하는 것을 즐깁니다 🏃🏻‍♂️
-
-문서화를 좋아하여, 1달에 최소 1개 기술 및 일상 블로깅을 하고 있습니다 ✍🏻
-
-</br>
 
 ### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
@@ -56,6 +45,22 @@ There’s a real person behind this profile, too! In my free time you might find
 Thanks for your visiting. </br>
 Hope you have a wonderful day :)  </br>
 Also if you want to know more about me, contact me anytime !
+
+</br>
+## 🙋🏻‍♀️ Introduction
+### 안녕하세요 ! 
+
+배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
+
+Frontend 개발자 김세화입니다 👋🏻
+
+IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 분야에 도전하는 것을 즐깁니다 🏃🏻‍♂️
+
+문서화를 좋아하여, 1달에 최소 1개 기술 및 일상 블로깅을 하고 있습니다 ✍🏻
+
+
+
+
 
 </br>
 </br>
