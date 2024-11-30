@@ -29,8 +29,6 @@
 
 ## 🙋🏻‍♀️ Introduction
 
-</br>
-
 ### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
 I'm a Front-End Developer with a background as a nurse. </br>
