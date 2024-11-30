@@ -78,6 +78,7 @@ IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"> 
         <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"> 
     </br>
+        <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"> 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"> 
