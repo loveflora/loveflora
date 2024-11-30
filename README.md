@@ -27,7 +27,9 @@
 </br>
 </br>
 
+## 🙋🏻‍♀️ Introduction
 
+</br>
 
 ### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
@@ -48,7 +50,7 @@ Also if you want to know more about me, contact me anytime !
 
 </br>
 
-## 🙋🏻‍♀️ Introduction
+
 ### 안녕하세요 ! 
 
 배움을 즐기고, 서로 도우며, 꾸준히 성장하고 싶은,
