@@ -121,7 +121,7 @@ IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 
 </br>
 
 ## 🏢 Careers
-[2024.03 ~ ing] Freshour | Frontend Developer
+[2024.03 ~ 2024.08] Freshour | Frontend Developer
 
 
 </br>
