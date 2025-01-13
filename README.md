@@ -22,7 +22,7 @@
 
 <div style="display:flex; flex-direction:row;>
 
-<!-- <a href="https://oooooooooooo.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a> --> 
+<!-- <a href="https://oooooooooooo.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a>
 
 <a href="https://oooooooooooo.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
