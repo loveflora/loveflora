@@ -9,7 +9,6 @@
 
 ## ✍🏻 About me
 
-<div style="display: flex; align-items: center; gap: 20px;">
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://polydactyl-cello-2db.notion.site/Sarah-SE-HWA-KIM-14ec1fa6dc0280f9a5b0e9da41e05a96?pvs=4" target="_blank">
             <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -23,7 +22,6 @@
         </a>
         <span>KOR</span>
     </div>
-</div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
     <a href="https://oooooooooooo.tistory.com/" target="_blank">
