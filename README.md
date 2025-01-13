@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
-<a href="https://oooooooooooo.tistory.com/">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<a href="https://oooooooooooo.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
    
