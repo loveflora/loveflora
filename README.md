@@ -14,14 +14,20 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white&logo=Notion"> 
 </a> -->
 
-<div style="display:flex; flex-direction:row;>
-<a href="https://oooooooooooo.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://polydactyl-cello-2db.notion.site/Sarah-SE-HWA-KIM-14ec1fa6dc0280f9a5b0e9da41e05a96?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 
 <a href="https://polydactyl-cello-2db.notion.site/KIM-SE-HWA-c4920e2528ae4e7bb40869f320fc859d?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
+
+<div style="display:flex; flex-direction:row;>
+<a href="https://oooooooooooo.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+</a>
+
+
    
 </br>
 </br>
