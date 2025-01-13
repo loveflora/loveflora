@@ -22,6 +22,7 @@
     <span>KOR</span>
 </div>
 
+
 <div style="display: flex; align-items: center; gap: 10px; margin-top: 10px;">
     <a href="https://oooooooooooo.tistory.com/" target="_blank">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
