@@ -11,7 +11,7 @@
 
 <div style="display: flex; align-items: center; gap: 30px;">
     <a href="https://polydactyl-cello-2db.notion.site/Sarah-SE-HWA-KIM-14ec1fa6dc0280f9a5b0e9da41e05a96?pvs=4" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/Notion-ENG-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
     <span>ENG</span>
 </div>
