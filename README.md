@@ -24,7 +24,7 @@
 
 <div style="display:flex; flex-direction:row;>
    
-<a href="https://oooooooooooo.tistory.com/">
+<a href="https://oooooooooooo.tistory.com">
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
 
@@ -39,10 +39,11 @@
 ### Hi, everyone. Welcome to my GitHub channel ! </br>
 This is Sehwa Kim 👋🏻 (You can also call me 'Sarah')</br>
 I'm a Front-End Developer with a background as a nurse. </br>
-I enjoy learning about new technologies, helping people, and growing steadily. </br>
-Not only that, I like to try new things. So I'm exploring various fields with an open mind, </br> 
-including IT, Health care, English and Business. </br>
-I like to documenting things that I realized or learned, so I update my blog at least once a month ✍🏻 </br>
+</br>
+- I have a curious and open mind, embracing challenges across various fields, including IT, Healthcare and Business.</br>
+- I find joy in learning, immersing myself in work, and helping others, which motivates me to grow both personally and professionally.</br>
+- With a commitment to continuous improvement, I am steadily building my skills and expertise in the field of development.</br>
+- I like to documenting things that I realized or learned ✍🏻 </br>
 (FYI, I'm gonna do this until I become a grandma lol) </br>
 </br>
 There’s a real person behind this profile, too! In my free time you might find me: hiking, traveling, 
