@@ -89,7 +89,6 @@ IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"> 
         <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=black"> 
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> 
         <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"> 
        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white"> 
@@ -101,6 +100,12 @@ IT, 헬스케어, 영어, 비즈니스 등 열린 마음을 가지고 다양한 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> 
         <img src="https://img.shields.io/badge/Sequelize-4479A1?style=for-the-badge&logo=Sequelize&logoColor=white"> 
+    </div>
+   </br>
+    <!-- Mobile -->
+    <p><strong>Mobile</strong></p>
+    <div>
+   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </div>
    </br>
     <!-- Database -->
